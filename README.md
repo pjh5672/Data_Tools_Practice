@@ -6,7 +6,7 @@
 
 ## History  
 **Sep 22 2020**  
-Update on Web Crawling, Pandas tutorials  
+Update on Web Crawling, Pandas Series tutorials  
 
 
 ## Reference
